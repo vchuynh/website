@@ -1,5 +1,5 @@
 # Van Cam Huynh
-*A rising Junior studying at the University of Michigan, Ann Arbor as a Computer Science major.
+* A rising Junior studying at the University of Michigan, Ann Arbor as a Computer Science major.
 
 # [Project 1: Simple Captcha Solver](https://github.com/vchuynh/simple-captcha-solver)
 This is a command line tool that solves simple alphanumeric captchas using the Tesseract OCR engine.
