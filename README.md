@@ -16,3 +16,9 @@ Scrapes and downloads images from a Facebook profile.
 # [Project 3: A* Pathfinder](https://github.com/vchuynh/AStar)
 A visualization of A* search algorithm written in Python. Given two fixed start and end points, it allows you to draw walls and to change the path taken.
 * **Python libraries used:** Pygame
+* 
+# [Project 3: Twitch-Suite](https://github.com/vchuynh/Twitch-Suite)
+Asynchronous Discord chat bot that logs messages sent in an online chatroom on the
+Twitch livestreaming platform through websockets and integrating Twitch and Discord
+API functionalities. 
+* **Python libraries used:** discord.py, requests, emoji
